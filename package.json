@@ -1,0 +1,28 @@
+{
+  "name": "chordproggen",
+  "version": "1.0.0",
+  "description": "Chord Progression Generator",
+  "main": "GenChordProgCommon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma-chin-365ho/GenChordProgApp-npm.git"
+  },
+  "keywords": [
+    "Chord",
+    "Progression",
+    "music",
+    "theory",
+    "chordproggen",
+    "Composition",
+    "arrange"
+  ],
+  "author": "mamemamema <st.msnr.wk@gmail.com> (https://www.ma299.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ma-chin-365ho/GenChordProgApp-npm/issues"
+  },
+  "homepage": "https://github.com/ma-chin-365ho/GenChordProgApp-npm#readme"
+}
